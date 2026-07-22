@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://genshot.dev">
-    <img src="https://genshot.dev/logos/social-card.png" alt="Genshot" width="640" />
+    <img src="https://genshot.dev/logos/genshot-wordmark-dark.png" alt="Genshot" width="420" />
   </a>
 </p>
 
