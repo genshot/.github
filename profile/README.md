@@ -22,6 +22,8 @@ and generate your first set.
 
 - [API documentation](https://genshot.dev/api-docs) — generate from your product,
   CI workflow, or coding agent.
+- [@genshot/sdk](https://github.com/genshot/sdk) — official TypeScript / JavaScript
+  client for the genshot API.
 - [@genshot/cli](https://github.com/genshot/cli) — the public command-line tool
   for App Store, Chrome Web Store, and Google Play listing images.
 
